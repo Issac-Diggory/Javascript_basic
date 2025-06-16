@@ -6,14 +6,14 @@ let obj = {
     address: 'HCM',
     email: '',
     gender:'',
-    a: function(){
-        console.log( `Object có thể chứa function.` );
-        return''
-    }
-}; // a là một object
+    // a: function(){
+    //     console.log( `Object có thể chứa function.` );
+    //     return''
+    // }
+}; // là một object
 let b= 'Issac'; // b alf một string
 console.log(`What is your name?
     My name is`,obj.name);
 console.log(`Where are you from?
     I'm from`, obj.address);
-console.log( ' Display function: ',obj.a() );
+//console.log( ' Display function: ',obj.a() );

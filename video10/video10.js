@@ -14,3 +14,6 @@ let e ;
 console.log('check value :' ,e);
 let f ='';
 console.log('check value :' ,f);
+
+// 1. neen so sanhs 3 dau =
+// 2. ban dau la a sau do gan no la b, thi ke tu thoi diem do no la b 

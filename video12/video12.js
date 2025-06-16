@@ -30,4 +30,4 @@ let number = prompt('Nhập số lớn hơn 0: ');
 while (Number(number) <=0 || isNaN(number)){
     console.log('vui lòng Nhập số lơn hơn 0');
 };
-console.log(" Bạn đã nhậph số", number);
+console.log(" Bạn đã nhậph số", number);    
